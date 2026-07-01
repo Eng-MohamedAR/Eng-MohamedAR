@@ -1,73 +1,156 @@
-<div align="center" width="50">
+<h1 align="center">Hi 👋, I'm Mohamed Abdelrahman</h1>
+<h3 align="center">Information Systems Student | Data Analyst | C++ Developer</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=3BA4F7&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Data+Analysis+Enthusiast;C%2B%2B+Developer;Frontend+Web+Developer;Always+Learning+New+Things" />
+</p>
 
-<details>
-<summary><strong> 👨‍💻 Mohammed Abdelrahman </strong></summary>
-<br>
+---
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) 
+# 👨‍💻 About Me
 
-</details>
+```cpp
+class MohamedAbdelrahman {
 
-<br>
+public:
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Eng-MohamedAR&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelrahman-4368a8371) <br>
+string university = "Information Systems";
 
-</div>
+string track = "Data Analysis";
 
-<hr></hr>
+vector<string> languages =
+{
+    "C++",
+    "Python",
+    "JavaScript",
+    "SQL"
+};
 
-### 💻 Programming & Data
-![Data Analysis](https://img.shields.io/badge/-Data_Analysis-4EAA25?style=flat&logo=google-analytics&logoColor=white)
-![Information Systems](https://img.shields.io/badge/-Information_Systems-00ADD8?style=flat)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+vector<string> web =
+{
+    "HTML",
+    "CSS",
+    "JavaScript"
+};
 
-### 🌐 Web
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+vector<string> tools =
+{
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Excel",
+    "Power BI",
+    "MS Office"
+};
 
-### 🛠️ Frameworks & Tools
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+string currentFocus =
+"Building Real Projects & Improving Problem Solving";
 
-<br>
-
-```python
-# My Profile
-
-class MohammedAbdelrahman:
-    def __init__(self):
-        self.major = "Information Systems (IS)"
-        self.track = "Data Analysis"
-        self.tech_skills = {
-            "Core": ["C++", "Python", "SQL"],
-            "Web_Design": ["HTML", "CSS", "JavaScript"],
-            "Tools_and_Data": ["Microsoft Office", "Excel", "Power BI"]
-        }
-        
-    def get_status(self):
-        return "Ready to turn data into actionable insights and build amazing websites!"
+};
 ```
 
-<br>
+---
 
-### 📊 GitHub Stats
+# 🌐 Web
 
-<div align="center">
-  <a href="https://github.com/Eng-MohamedAR">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eng-MohamedAR&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mohammed%20Abdelrahman's%20GitHub%20Stats" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Eng-MohamedAR">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-MohamedAR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+<p>
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+# 🛠 Frameworks & Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Eng-MohamedAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-MohamedAR&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MohamedAR&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-MohamedAR&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-MohamedAR&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Eng-MohamedAR&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-abdelrahman-4368a8371">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Eng-MohamedAR&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
