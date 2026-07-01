@@ -56,3 +56,36 @@ class MohammedAbdelrahman:
         
     def get_status(self):
         return "Ready to turn data into actionable insights and build amazing websites!"
+```
+
+<br>
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m a specialist in **Information Systems & Data Analysis**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I have solid experience in **Web Design & C++ Programming**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Data sets, MS Office optimization, or Web Development**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Connect with me on **[LinkedIn](https://www.linkedin.com/in/mohamed-abdelrahman-4368a8371)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: A clean, well-formatted Excel sheet brings me as much joy as a bug-free C++ code.<br>
+
+<hr></hr>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Eng-MohamedAR">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eng-MohamedAR&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-MohamedAR&theme=tokyonight&hide_border=true" width="48%">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+**Code & Data Cycle**<br><br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Messy Data!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="10%" alt="Analyzing..."/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Clean Insights!"/><br>
+
+</div>
